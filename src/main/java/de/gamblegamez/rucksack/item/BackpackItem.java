@@ -37,7 +37,7 @@ public class BackpackItem {
     }
 
     /**
-     * Asynchronously fetch the backpack items, causing them to be loaded into memory.
+     * Asynchronously fetch all pages of a backpack item, causing them to be loaded into memory.
      * <br>
      * Used to prevent blocking reads on the first time a backpack is accessed.
      */
