@@ -1,0 +1,7 @@
+name: Rucksack
+version: '1.0-SNAPSHOT'
+main: de.gamblegamez.rucksack.Rucksack
+bootstrapper: de.gamblegamez.rucksack.Bootstrapper
+loader: de.gamblegamez.rucksack.Loader
+api-version: '1.21.1'
+authors: [ Mester, GambleGamez ]
